@@ -1,1 +1,1 @@
-<img src = "/static/ssor.png">
+<img src = "/profile/static/ssor.png">
