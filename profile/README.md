@@ -1,8 +1,8 @@
 <p align="center">
 
-[![](https://github.com/ucarion/documentation/blob/main/Frame%2024%20(2).png?raw=true#gh-light-mode-only)](https://github.com/ssoready/ssoready)
+![](https://github.com/ucarion/documentation/blob/main/Frame%2024%20(2).png?raw=true#gh-light-mode-only)
 
-[![](https://github.com/ucarion/documentation/blob/main/Frame%2024%20(1).png?raw=true#gh-dark-mode-only)](https://github.com/ssoready/ssoready)
+![](https://github.com/ucarion/documentation/blob/main/Frame%2024%20(1).png?raw=true#gh-dark-mode-only)
 
 </p>
 
