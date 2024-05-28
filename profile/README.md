@@ -1,8 +1,9 @@
 <p align="center">
-<a href="https://github.com/ssoready/ssoready">
-<img src="https://github.com/ucarion/documentation/blob/main/Frame%2024%20(2).png?raw=true#gh-light-mode-only">
-<img src="https://github.com/ucarion/documentation/blob/main/Frame%2025%20(2).png?raw=true#gh-dark-mode-only">
-</a>
+
+[![](https://github.com/ucarion/documentation/blob/main/Frame%2024%20(2).png?raw=true#gh-light-mode-only)](https://github.com/ssoready/ssoready)
+
+[![](https://github.com/ucarion/documentation/blob/main/Frame%2024%20(1).png?raw=true#gh-dark-mode-only)](https://github.com/ssoready/ssoready)
+
 </p>
 
 # SSOReady
